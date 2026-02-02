@@ -1,0 +1,11 @@
+**Database Name: orrsphp**
+
+**Developed by Waghe Swapnil **
+
+
+
+**Admin Login Details**
+
+Email   : admin@mail.com
+Password: 1111
+
